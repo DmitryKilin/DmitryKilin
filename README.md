@@ -19,9 +19,11 @@ My name is __Dmitry Kilin__ and I'm a starter C++ and JS fullstack developer. I'
 - [![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)](https://www.typescriptlang.org)
 
 ## 🔧 Technologies uses
-[![](https://img.shields.io/badge/Code-STL-informational?style=flat&logo=react&logoColor=white&color=yellow)](https://reactjs.org)
 [![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=yellow)](https://reactjs.org)
 [![](https://img.shields.io/badge/Code-WebSocket-informational?style=flat&logoColor=white&color=yellow)](https://websockets.spec.whatwg.org)
+
+## ⚙️ C++ libraries experience
+[![](https://img.shields.io/badge/Tools-STL-informational?style=flat&logo=redux&logoColor=white&color=informational)](https://redux.js.org)
 
 ## ⚙️ External JS libraries experience
 [![](https://img.shields.io/badge/Tools-Redux-informational?style=flat&logo=redux&logoColor=white&color=informational)](https://redux.js.org)
