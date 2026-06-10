@@ -17,22 +17,24 @@ My name is __Dmitry Kilin__ and I'm a starter C++ and JS fullstack developer. I'
 - [![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)](https://www.w3.org/Style/CSS/specs.en.html)
 - [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)](https://www.ecma-international.org)
 - [![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)](https://www.typescriptlang.org)
+- [![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=cplusplus&logoColor=white&color=00599C)](https://isocpp.org/about)
 
 ## 🔧 Technologies uses
-[![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=yellow)](https://reactjs.org)
-[![](https://img.shields.io/badge/Code-WebSocket-informational?style=flat&logoColor=white&color=yellow)](https://websockets.spec.whatwg.org)
+- [![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=yellow)](https://reactjs.org)
+- [![](https://img.shields.io/badge/Code-WebSocket-informational?style=flat&logoColor=white&color=yellow)](https://websockets.spec.whatwg.org)
+- [![](https://img.shields.io/badge/Code-REST%20API-informational?style=flat&logoColor=white&color=yellow)](https://websockets.spec.whatwg.org)
 
 ## ⚙️ C++ libraries experience
-[![](https://img.shields.io/badge/Tools-STL-informational?style=flat&logo=redux&logoColor=white&color=informational)](https://redux.js.org)
+- [![](https://img.shields.io/badge/Tools-STL-informational?style=flat&logo=redux&logoColor=white&color=informational)](https://redux.js.org)
 
 ## ⚙️ External JS libraries experience
-[![](https://img.shields.io/badge/Tools-Redux-informational?style=flat&logo=redux&logoColor=white&color=informational)](https://redux.js.org)
-[![](https://img.shields.io/badge/Tools-ReactRouter-informational?style=flat&logo=reactrouter&logoColor=white&color=informational)](https://reactrouter.com/en/main)
-[![](https://img.shields.io/badge/Tools-ReactDnD-informational?style=flat&logo=reactdnd&logoColor=white&color=informational)](https://react-dnd.github.io/react-dnd/about)
-[![](https://img.shields.io/badge/Tools-DayJS-informational?style=flat&logo=reactdnd&logoColor=white&color=informational)](https://day.js.org/en/)
-[![](https://img.shields.io/badge/Tools-LeafLet-informational?style=flat&logoColor=white&color=informational)](https://mourner.github.io/Leaflet/index.html)
-[![](https://img.shields.io/badge/Tools-ReactToastify-informational?style=flat&logoColor=white&color=informational)](https://github.com/fkhadra/react-toastify#readme)
- [![](https://img.shields.io/badge/Tools-ReactYandexMaps-informational?style=flat&logoColor=white&color=informational)]([https://github.com/fkhadra/react-toastify#readme](https://react-yandex-maps.vercel.app/?path=/story/getting-started--page))
+- [![](https://img.shields.io/badge/Tools-Redux-informational?style=flat&logo=redux&logoColor=white&color=informational)](https://redux.js.org)
+- [![](https://img.shields.io/badge/Tools-ReactRouter-informational?style=flat&logo=reactrouter&logoColor=white&color=informational)](https://reactrouter.com/en/main)
+- [![](https://img.shields.io/badge/Tools-ReactDnD-informational?style=flat&logo=reactdnd&logoColor=white&color=informational)](https://react-dnd.github.io/react-dnd/about)
+- [![](https://img.shields.io/badge/Tools-DayJS-informational?style=flat&logo=reactdnd&logoColor=white&color=informational)](https://day.js.org/en/)
+- [![](https://img.shields.io/badge/Tools-LeafLet-informational?style=flat&logoColor=white&color=informational)](https://mourner.github.io/Leaflet/index.html)
+- [![](https://img.shields.io/badge/Tools-ReactToastify-informational?style=flat&logoColor=white&color=informational)](https://github.com/fkhadra/react-toastify#readme)
+- [![](https://img.shields.io/badge/Tools-ReactYandexMaps-informational?style=flat&logoColor=white&color=informational)]([https://github.com/fkhadra/react-toastify#readme](https://react-yandex-maps.vercel.app/?path=/story/getting-started--page))
 
 ## &#x1f4c8; GitHub Stats
 
