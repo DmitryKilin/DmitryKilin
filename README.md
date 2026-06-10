@@ -12,12 +12,12 @@ My name is __Dmitry Kilin__ and I'm a starter C++ and JS fullstack developer. I'
 
 
 ## 🛠️ Languages uses
-[![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=cplusplus&logoColor=white&color=00599C)](https://isocpp.org/about)
+[![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)](https://isocpp.org/about)
 [![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)](https://www.w3.org/TR/2011/WD-html5-20110405/)
 [![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)](https://www.w3.org/Style/CSS/specs.en.html)
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)](https://www.ecma-international.org)
 [![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)](https://www.typescriptlang.org)
-[![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)](https://isocpp.org/about)
+[![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)](https://isocpp.org/about)
 
 ## 🔧 Technologies uses
 [![](https://img.shields.io/badge/Code-WebSocket-informational?style=flat&logoColor=white&color=yellow)](https://websockets.spec.whatwg.org)
