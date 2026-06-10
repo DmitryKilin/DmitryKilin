@@ -20,7 +20,6 @@ My name is __Dmitry Kilin__ and I'm a starter C++ and JS fullstack developer. I'
 [![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)](https://isocpp.org/about)
 
 ## 🔧 Technologies uses
-[![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=yellow)](https://reactjs.org)
 [![](https://img.shields.io/badge/Code-WebSocket-informational?style=flat&logoColor=white&color=yellow)](https://websockets.spec.whatwg.org)
 [![](https://img.shields.io/badge/Code-REST%20API-informational?style=flat&logoColor=white&color=yellow)](https://websockets.spec.whatwg.org)
 
