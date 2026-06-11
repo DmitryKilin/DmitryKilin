@@ -27,8 +27,8 @@ My name is __Dmitry Kilin__ and I'm a starter C++ and JS fullstack developer. I'
 ## ⚙️ C++ libraries experience
 [![](https://img.shields.io/badge/Tools-STL-informational?style=flat&logo=rcplusplus&logoColor=white&color=FF9F03)](https://cppreference.com/)
 [![](https://img.shields.io/badge/Tools-BOOST-informational?style=flat&logo=rcplusplus&logoColor=white&color=FF9F03)](https://www.boost.org/)
-[![](https://img.shields.io/badge/Tools-Qt-informational?style=flat&logo=rcplusplus&logoColor=white&color=FF9F03)](https://www.boost.org/)
-[![](https://img.shields.io/badge/Tools-libpqxx-informational?style=flat&logo=qt&logoColor=white&color=FF9F03)](https://pqxx.org/libpqxx/)
+[![](https://img.shields.io/badge/Tools-Qt-informational?style=flat&logo=qt&logoColor=white&color=FF9F03)](https://www.boost.org/)
+[![](https://img.shields.io/badge/Tools-libpqxx-informational?style=flat&logo=rcplusplus&logoColor=white&color=FF9F03)](https://pqxx.org/libpqxx/)
 [![](https://img.shields.io/badge/Tools-Catch2-informational?style=flat&logo=rcplusplus&logoColor=white&color=FF9F03)](https://github.com/catchorg/Catch2)
 
 ## ⚙️ External JS libraries experience
